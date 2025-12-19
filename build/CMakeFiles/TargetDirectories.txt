@@ -1,0 +1,2 @@
+/home/nikol/http-server-linux/build/CMakeFiles/edit_cache.dir
+/home/nikol/http-server-linux/build/CMakeFiles/rebuild_cache.dir
