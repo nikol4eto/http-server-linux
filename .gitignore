@@ -1,23 +1,10 @@
-# Build directory (CMake / Ninja)
 build/
+cmake-build-*/
 
-# CMake generated files
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
+Makefile
 compile_commands.json
+CTestTestfile.cmake
 
-# Object files / binaries
-*.o
-*.a
-*.so
-http11
-
-# Editor / OS junk
-.vscode/
-.DS_Store
-Thumbs.db
-
-# Logs / temp
-*.log
-*.tmp
